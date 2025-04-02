@@ -1,5 +1,8 @@
 name: timeago_workspace
 
+dependencies:
+  intl: ^0.20.0
+
 environment:
   sdk: ">=2.12.0 <4.0.0"
 
